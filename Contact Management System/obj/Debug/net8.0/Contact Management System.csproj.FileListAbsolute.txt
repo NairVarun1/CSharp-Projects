@@ -1,0 +1,4 @@
+C:\Users\varun\OneDrive\Desktop\CSharp Projects\Contact Management System\obj\Debug\net8.0\Contact Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\OneDrive\Desktop\CSharp Projects\Contact Management System\obj\Debug\net8.0\Contact Management System.AssemblyInfoInputs.cache
+C:\Users\varun\OneDrive\Desktop\CSharp Projects\Contact Management System\obj\Debug\net8.0\Contact Management System.AssemblyInfo.cs
+C:\Users\varun\OneDrive\Desktop\CSharp Projects\Contact Management System\obj\Debug\net8.0\Contact Management System.csproj.CoreCompileInputs.cache

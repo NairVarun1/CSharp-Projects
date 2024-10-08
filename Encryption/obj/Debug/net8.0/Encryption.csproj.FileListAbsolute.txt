@@ -1,0 +1,4 @@
+C:\Users\varun\OneDrive\Desktop\CSharp Projects\Encryption\obj\Debug\net8.0\Encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\OneDrive\Desktop\CSharp Projects\Encryption\obj\Debug\net8.0\Encryption.AssemblyInfoInputs.cache
+C:\Users\varun\OneDrive\Desktop\CSharp Projects\Encryption\obj\Debug\net8.0\Encryption.AssemblyInfo.cs
+C:\Users\varun\OneDrive\Desktop\CSharp Projects\Encryption\obj\Debug\net8.0\Encryption.csproj.CoreCompileInputs.cache
